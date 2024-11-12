@@ -1,0 +1,21 @@
+{
+  "name": "discord-backup-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for backing up server components",
+  "main": "index.js",
+  "author": "Friday",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://discord.gg/zPjH55uCYt"
+  }
+} 

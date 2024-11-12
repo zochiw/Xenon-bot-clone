@@ -1,0 +1,939 @@
+{
+  "backupId": "02710E",
+  "name": "Panda Coder's",
+  "channels": [
+    {
+      "name": "Chat Room",
+      "type": 4,
+      "position": 1,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "Voice Room",
+      "type": 4,
+      "position": 2,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "Information Room",
+      "type": 4,
+      "position": 0,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🧃〢meeting",
+      "type": 2,
+      "position": 0,
+      "parent": "Voice Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 69,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🥑〢leak-codes",
+      "type": 0,
+      "position": 3,
+      "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🌱〢xd-syntax",
+      "type": 0,
+      "position": 1,
+      "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🌴〢inbox",
+      "type": 5,
+      "position": 0,
+      "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🐛〢bugs-report",
+      "type": 15,
+      "position": 2,
+      "parent": "Chat Room",
+      "topic": "**Report Any Bugs, If you found it 🥸 **",
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": 1800,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🧃〢music",
+      "type": 2,
+      "position": 1,
+      "parent": "Voice Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 29,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🍍〢info",
+      "type": 0,
+      "position": 2,
+      "parent": "Information Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🧃〢music ²",
+      "type": 2,
+      "position": 2,
+      "parent": "Voice Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 29,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🧸〢admibot-ai",
+      "type": 0,
+      "position": 5,
+      "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🚀〢flury_ai",
+      "type": 0,
+      "position": 4,
+      "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🧩〢ultimatebot-ai",
+      "type": 0,
+      "position": 1,
+      "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🐰〢rabbit-ai",
+      "type": 0,
+      "position": 2,
+      "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "AI Rooms",
+      "type": 4,
+      "position": 3,
+      "parent": null,
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "📷〢media",
+      "type": 0,
+      "position": 1,
+      "parent": "Chat Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "💫〢swivel-ai",
+      "type": 0,
+      "position": 3,
+      "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "💥〢sparkai",
+      "type": 0,
+      "position": 6,
+      "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🍉〢general-chat",
+      "type": 0,
+      "position": 0,
+      "parent": "Chat Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🤖〢bot-cmds",
+      "type": 0,
+      "position": 3,
+      "parent": "Chat Room",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🐢〢turtle-ai",
+      "type": 0,
+      "position": 0,
+      "parent": "AI Rooms",
+      "topic": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "rateLimitPerUser": null,
+      "permissionOverwrites": [
+        {
+          "id": "1242031356511391814",
+          "type": 0,
+          "allow": [
+            "SendMessages"
+          ],
+          "deny": []
+        }
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "Cloudy GX",
+      "color": 0,
+      "hoist": false,
+      "position": 12,
+      "permissions": [
+        "Administrator",
+        "AddReactions",
+        "PrioritySpeaker",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "RequestToSpeak",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Botz",
+      "color": 3066993,
+      "hoist": true,
+      "position": 14,
+      "permissions": [],
+      "mentionable": false
+    },
+    {
+      "name": "Project",
+      "color": 15844367,
+      "hoist": true,
+      "position": 15,
+      "permissions": [],
+      "mentionable": false
+    },
+    {
+      "name": "Devz",
+      "color": 8061183,
+      "hoist": true,
+      "position": 16,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Muted",
+      "color": 0,
+      "hoist": false,
+      "position": 11,
+      "permissions": [],
+      "mentionable": false
+    },
+    {
+      "name": "Flace",
+      "color": 0,
+      "hoist": false,
+      "position": 10,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "UltimateBot",
+      "color": 0,
+      "hoist": false,
+      "position": 9,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "PrioritySpeaker",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageEmojisAndStickers",
+        "ManageGuildExpressions",
+        "UseApplicationCommands",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "ViewCreatorMonetizationAnalytics",
+        "CreateGuildExpressions",
+        "SendPolls"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Lightz Beta",
+      "color": 0,
+      "hoist": false,
+      "position": 13,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "AdmiBot",
+      "color": 0,
+      "hoist": false,
+      "position": 8,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "Administrator",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "ViewGuildInsights",
+        "Connect",
+        "Speak",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "ManageWebhooks",
+        "ManageEmojisAndStickers",
+        "ManageGuildExpressions",
+        "UseApplicationCommands",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePrivateThreads",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "ViewCreatorMonetizationAnalytics",
+        "CreateGuildExpressions",
+        "CreateEvents"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Rabbit",
+      "color": 0,
+      "hoist": false,
+      "position": 7,
+      "permissions": [
+        "Administrator",
+        "ViewChannel",
+        "SendMessages",
+        "ReadMessageHistory"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "GG",
+      "color": 131586,
+      "hoist": true,
+      "position": 17,
+      "permissions": [],
+      "mentionable": false
+    },
+    {
+      "name": "Flury",
+      "color": 0,
+      "hoist": false,
+      "position": 6,
+      "permissions": [
+        "CreateInstantInvite",
+        "KickMembers",
+        "BanMembers",
+        "ManageChannels",
+        "ManageGuild",
+        "AddReactions",
+        "ViewAuditLog",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "SendTTSMessages",
+        "ManageMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "MentionEveryone",
+        "UseExternalEmojis",
+        "MuteMembers",
+        "DeafenMembers",
+        "MoveMembers",
+        "UseVAD",
+        "ChangeNickname",
+        "ManageNicknames",
+        "ManageRoles",
+        "UseApplicationCommands",
+        "ManageEvents",
+        "ManageThreads",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "ModerateMembers",
+        "UseSoundboard",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendPolls"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Swivel",
+      "color": 0,
+      "hoist": false,
+      "position": 5,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "SparkBot",
+      "color": 0,
+      "hoist": false,
+      "position": 4,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Synthie",
+      "color": 0,
+      "hoist": false,
+      "position": 3,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Turtle",
+      "color": 0,
+      "hoist": false,
+      "position": 2,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    },
+    {
+      "name": "Azure",
+      "color": 0,
+      "hoist": false,
+      "position": 1,
+      "permissions": [
+        "Administrator"
+      ],
+      "mentionable": false
+    }
+  ],
+  "emojis": [
+    {
+      "name": "yellow",
+      "url": "https://cdn.discordapp.com/emojis/1253955542150283314.png",
+      "animated": false
+    },
+    {
+      "name": "red",
+      "url": "https://cdn.discordapp.com/emojis/1253955563189043231.png",
+      "animated": false
+    },
+    {
+      "name": "green",
+      "url": "https://cdn.discordapp.com/emojis/1253955583225237565.png",
+      "animated": false
+    },
+    {
+      "name": "other",
+      "url": "https://cdn.discordapp.com/emojis/1253955604318519336.png",
+      "animated": false
+    },
+    {
+      "name": "blue",
+      "url": "https://cdn.discordapp.com/emojis/1253955625839497246.png",
+      "animated": false
+    },
+    {
+      "name": "react",
+      "url": "https://cdn.discordapp.com/emojis/1253955644474789961.png",
+      "animated": false
+    },
+    {
+      "name": "add",
+      "url": "https://cdn.discordapp.com/emojis/1253955664267444264.png",
+      "animated": false
+    },
+    {
+      "name": "check",
+      "url": "https://cdn.discordapp.com/emojis/1253955682198229002.png",
+      "animated": false
+    },
+    {
+      "name": "counter_1",
+      "url": "https://cdn.discordapp.com/emojis/1253955701924171786.png",
+      "animated": false
+    },
+    {
+      "name": "counter_2",
+      "url": "https://cdn.discordapp.com/emojis/1253955722253701161.png",
+      "animated": false
+    },
+    {
+      "name": "counter_3",
+      "url": "https://cdn.discordapp.com/emojis/1253955741690101761.png",
+      "animated": false
+    },
+    {
+      "name": "counter_4",
+      "url": "https://cdn.discordapp.com/emojis/1253955759419428985.png",
+      "animated": false
+    },
+    {
+      "name": "counter_5",
+      "url": "https://cdn.discordapp.com/emojis/1253955778625146950.png",
+      "animated": false
+    },
+    {
+      "name": "music",
+      "url": "https://cdn.discordapp.com/emojis/1253955810493464596.png",
+      "animated": false
+    },
+    {
+      "name": "cross",
+      "url": "https://cdn.discordapp.com/emojis/1253955875962621952.png",
+      "animated": false
+    },
+    {
+      "name": "upvote",
+      "url": "https://cdn.discordapp.com/emojis/1262371403378987121.png",
+      "animated": false
+    },
+    {
+      "name": "eye",
+      "url": "https://cdn.discordapp.com/emojis/1262751355949547581.png",
+      "animated": false
+    },
+    {
+      "name": "blob",
+      "url": "https://cdn.discordapp.com/emojis/1264194635706667028.gif",
+      "animated": true
+    },
+    {
+      "name": "poll",
+      "url": "https://cdn.discordapp.com/emojis/1265278177278689290.gif",
+      "animated": true
+    },
+    {
+      "name": "giveaways",
+      "url": "https://cdn.discordapp.com/emojis/1265278204608774164.gif",
+      "animated": true
+    },
+    {
+      "name": "chat",
+      "url": "https://cdn.discordapp.com/emojis/1265278226343657516.gif",
+      "animated": true
+    },
+    {
+      "name": "BraversCheck",
+      "url": "https://cdn.discordapp.com/emojis/1265278248854753411.gif",
+      "animated": true
+    },
+    {
+      "name": "BraversCross",
+      "url": "https://cdn.discordapp.com/emojis/1265278272204308510.gif",
+      "animated": true
+    },
+    {
+      "name": "arrow",
+      "url": "https://cdn.discordapp.com/emojis/1265278329041322126.gif",
+      "animated": true
+    },
+    {
+      "name": "announce",
+      "url": "https://cdn.discordapp.com/emojis/1265278357361266710.gif",
+      "animated": true
+    },
+    {
+      "name": "devs",
+      "url": "https://cdn.discordapp.com/emojis/1265278400348553336.gif",
+      "animated": true
+    },
+    {
+      "name": "youtube",
+      "url": "https://cdn.discordapp.com/emojis/1265278486587772988.gif",
+      "animated": true
+    },
+    {
+      "name": "search",
+      "url": "https://cdn.discordapp.com/emojis/1265278522780422265.gif",
+      "animated": true
+    },
+    {
+      "name": "boost",
+      "url": "https://cdn.discordapp.com/emojis/1265278605957533778.gif",
+      "animated": true
+    },
+    {
+      "name": "rules",
+      "url": "https://cdn.discordapp.com/emojis/1265278630091821099.gif",
+      "animated": true
+    },
+    {
+      "name": "money",
+      "url": "https://cdn.discordapp.com/emojis/1265278677067759680.gif",
+      "animated": true
+    },
+    {
+      "name": "ping",
+      "url": "https://cdn.discordapp.com/emojis/1265284736935395338.gif",
+      "animated": true
+    },
+    {
+      "name": "ques",
+      "url": "https://cdn.discordapp.com/emojis/1265291363100921896.gif",
+      "animated": true
+    },
+    {
+      "name": "across",
+      "url": "https://cdn.discordapp.com/emojis/1291704841516879905.gif",
+      "animated": true
+    },
+    {
+      "name": "tick",
+      "url": "https://cdn.discordapp.com/emojis/1291704886085423104.gif",
+      "animated": true
+    },
+    {
+      "name": "BotLoading",
+      "url": "https://cdn.discordapp.com/emojis/1291706124810194954.gif",
+      "animated": true
+    },
+    {
+      "name": "Warning",
+      "url": "https://cdn.discordapp.com/emojis/1291714941681930325.gif",
+      "animated": true
+    },
+    {
+      "name": "staffs",
+      "url": "https://cdn.discordapp.com/emojis/1292502165163606127.png",
+      "animated": false
+    },
+    {
+      "name": "family",
+      "url": "https://cdn.discordapp.com/emojis/1292502215453442240.png",
+      "animated": false
+    },
+    {
+      "name": "emoji",
+      "url": "https://cdn.discordapp.com/emojis/1296407814645747745.png",
+      "animated": false
+    }
+  ],
+  "stickers": [
+    {
+      "name": "Laugh",
+      "description": "",
+      "tags": "sticker",
+      "url": "https://cdn.discordapp.com/stickers/1244862387228512366.png"
+    }
+  ],
+  "timestamp": "2024-11-11T09:55:10.450Z"
+}
