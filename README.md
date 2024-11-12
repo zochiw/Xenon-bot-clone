@@ -92,18 +92,6 @@ This project is open source under the MIT license. Contributions are welcome:
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/friday2su/xenon-bot-clone/blob/main/LICENSE) file for details.
-
-## Author
-
-- **Friday** - *Initial work* - [Ghost Planet](https://discord.gg/zPjH55uCYt)
-
-## Acknowledgments
-
-- Thanks to the Discord.js team for their amazing library
-- Special thanks to the Ghost Planet community
 
 ## Copyright
 
